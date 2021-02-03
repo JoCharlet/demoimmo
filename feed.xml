@@ -3,12 +3,48 @@
     <title>DemoImmo</title>
     <link href="https://jocharlet.github.io/demoimmo/feed.xml" rel="self" />
     <link href="https://jocharlet.github.io/demoimmo" />
-    <updated>2020-11-03T09:38:39+01:00</updated>
+    <updated>2020-11-11T23:19:30+01:00</updated>
     <author>
         <name>Jonathan Charlet</name>
     </author>
     <id>https://jocharlet.github.io/demoimmo</id>
 
+    <entry>
+        <title>Le titre de l&#x27;annonce</title>
+        <author>
+            <name>Jonathan Charlet</name>
+        </author>
+        <link href="https://jocharlet.github.io/demoimmo/le-titre-de-lannonce/"/>
+        <id>https://jocharlet.github.io/demoimmo/le-titre-de-lannonce/</id>
+            <category term="Yverdon-les-Bains"/>
+            <category term="Maison"/>
+
+        <updated>2020-11-11T23:19:30+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/6/18529323.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl orci, volutpat&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/6/18529323.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18529323.jpg" data-size="897x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18529323-thumbnail.jpg" alt="" width="768" height="570"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18719645.jpg" data-size="1065x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18719645-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18793786.jpg" data-size="1000x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18793786-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+</div></div>
+<div id="lipsum">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl orci, volutpat quis interdum a, rhoncus nec enim. Proin tincidunt quis erat sed suscipit. Fusce aliquet justo eget augue viverra imperdiet. Cras ultricies elit sed ullamcorper sollicitudin. Aliquam porta purus lectus, in aliquet tellus finibus vitae. Morbi consectetur rhoncus arcu, id laoreet erat luctus id. Aliquam nec varius eros. Sed sit amet ex ligula. Vivamus id lobortis nibh. Sed sodales mi id ipsum porttitor, quis varius massa congue. Phasellus vestibulum, ante ac porttitor ornare, ligula justo ornare mauris, a gravida purus nulla suscipit arcu. Donec luctus posuere nisl, ac tempus sapien pulvinar in.</p>
+<p>Donec semper dictum orci, sit amet condimentum neque hendrerit id. Nullam tempor pulvinar nibh, vel accumsan elit pulvinar sit amet. Nullam porta enim erat, malesuada fringilla ex ultrices sed. Sed egestas, tortor quis ornare molestie, ipsum sem condimentum risus, cursus auctor purus eros et nibh. Duis elementum pellentesque ipsum, commodo convallis ante mollis sit amet. Duis vel libero consequat, facilisis nisi id, ultrices quam. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin elementum felis velit, nec sodales quam venenatis vel. Fusce est sapien, porttitor maximus varius sit amet, sollicitudin in ante. Maecenas scelerisque mi arcu, a ornare orci bibendum sed.</p>
+<p>Maecenas placerat maximus tellus non venenatis. Curabitur vel scelerisque justo. Nulla euismod pulvinar orci, nec blandit lectus cursus et. Vivamus ac porta orci. Duis eget est velit. Praesent dignissim purus at ultrices sodales. Integer fringilla velit quis condimentum auctor. Donec eleifend tortor lectus, non porttitor tortor euismod sit amet.</p>
+<p>Etiam quis efficitur quam, a imperdiet justo. Nulla facilisi. Morbi vulputate mattis placerat. Maecenas a erat scelerisque, scelerisque risus id, auctor tellus. Proin tempor sollicitudin urna. Ut luctus vehicula magna, et aliquet neque iaculis at. Vestibulum placerat scelerisque nisl vitae vehicula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam a fermentum felis. Sed eget mauris semper, rhoncus nibh vel, iaculis leo. Aenean libero metus, varius at maximus vitae, ultrices sodales dui. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed viverra egestas libero non varius.</p>
+<p>Integer id aliquet nisl. Vestibulum condimentum diam sit amet diam posuere tristique. Donec non quam vitae magna sagittis eleifend eget non leo. Phasellus turpis lacus, porttitor nec nisi nec, tempus hendrerit felis. Nulla varius et odio nec hendrerit. In vitae eros odio. Fusce lobortis lectus vel quam tincidunt ultrices. Quisque ac nunc accumsan, consectetur urna ut, efficitur neque.</p>
+</div>
+<p><a href="https://jocharlet.github.io/demoimmo/media/files/Stroganov végétarien.pdf">PDF</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>6.5 pièces - CHF 1&#x27;350&#x27;000.- </title>
         <author>
@@ -51,7 +87,7 @@
             <category term="Maison"/>
             <category term="Lausanne"/>
 
-        <updated>2020-10-22T00:01:29+02:00</updated>
+        <updated>2020-11-11T22:15:21+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jocharlet.github.io/demoimmo/media/posts/4/18529323.jpg" alt="" />
@@ -74,13 +110,6 @@
 <p>Le garage peut accueillir 4 voitures, tandis que 5 véhicules peuvent être garés à l'extérieur.</p>
 <p>L'ensemble de la maison et les extérieurs sont parfaitement entretenus et des travaux d'entretien ont été réalisés en 2013, 2016 et 2019.</p>
 <p><a href="https://jocharlet.github.io/demoimmo/media/files/Stroganov végétarien.pdf" target="_blank" rel="noopener noreferrer" download>PDF</a></p>
-<p> </p>
-<p> </p>
-<center>
-<div style="width: 100%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Yverdon-les-Bains%20La%20ferme+(My%20Business%20Name)&amp;t=k&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0"></iframe></div></div>
-<div> </div>
-<div> </div>
-</center><form action="https://formspree.io/f/xdopgden" method="POST"><input name="name" type="text"> <input name="_replyto" type="email"> <input name="_next" type="text"> <input type="submit" value="Send"></form>
             ]]>
         </content>
     </entry>
@@ -94,7 +123,7 @@
             <category term="Yverdon-les-Bains"/>
             <category term="Appartement"/>
 
-        <updated>2020-10-21T22:39:57+02:00</updated>
+        <updated>2020-11-11T22:24:14+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jocharlet.github.io/demoimmo/media/posts/3/18719645.jpg" alt="" />
@@ -110,10 +139,7 @@
 <figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/3/gallery/18793786.jpg" data-size="1000x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/3/gallery/18793786-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
 </div></div>
 <p><br><br>À la fois très proche du centre-ville et à deux pas de la nature, la résidence de Clendy 10 fait partie du plan de quartier "Clendy Parc".<br><br>Clendy Parc est situé dans secteur résidentiel calme et privilégié. La résidence sera à moins de 5 minutes du centre-ville ou des divers axes autoroutiers.<br><br>Le projet architectural intérieur et extérieur contemporain allie modernité, confort et praticité.<br><br>Cette future résidence se composera de 2 immeubles de 10 appartements chacun. Les typologies proposées vont du studio au 4 ½ pièces ( voir 5 ½ pièces en option).<br><br>Chaque lot dispose d'un balcon ou d'une terrasse et de belles surfaces habitables.<br><br>Le lot A11 est un appartement de 4,5 pièces d'une surface de 99 m2 habitable au 1er étage.<br>Il comprend une cuisine ouverte sur le séjour donnant sur un balcon de 9 m2, trois chambres à coucher, une salle de bain et une salle de douche.<br>Possibilité d'acquérir des places de parc couvertes à fr. 30'000.- ou extérieures à fr. 17'000.- selon la typologie des appartements.<br><br></p>
-<p> </p>
-<center>
-<div style="width: 100%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Yverdon-les-Bains%20La%20ferme+(My%20Business%20Name)&amp;t=k&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0"></iframe></div></div>
-</center>
+<p><a href="https://jocharlet.github.io/demoimmo/media/files/Stroganov végétarien.pdf">PDF</a></p>
             ]]>
         </content>
     </entry>
@@ -127,7 +153,7 @@
             <category term="Yverdon-les-Bains"/>
             <category term="Appartement"/>
 
-        <updated>2020-10-21T22:43:21+02:00</updated>
+        <updated>2020-11-11T22:14:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jocharlet.github.io/demoimmo/media/posts/2/18793786.jpg" alt="" />
