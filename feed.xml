@@ -1,206 +1,426 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>DemoImmo</title>
+    <title>BATIFORT</title>
     <link href="https://jocharlet.github.io/demoimmo/feed.xml" rel="self" />
     <link href="https://jocharlet.github.io/demoimmo" />
-    <updated>2020-11-11T23:19:30+01:00</updated>
+    <updated>2021-04-24T16:27:58+02:00</updated>
     <author>
         <name>Jonathan Charlet</name>
     </author>
     <id>https://jocharlet.github.io/demoimmo</id>
 
     <entry>
-        <title>Le titre de l&#x27;annonce</title>
+        <title>Maison à vendre à Oron</title>
         <author>
             <name>Jonathan Charlet</name>
         </author>
-        <link href="https://jocharlet.github.io/demoimmo/le-titre-de-lannonce/"/>
-        <id>https://jocharlet.github.io/demoimmo/le-titre-de-lannonce/</id>
-            <category term="Yverdon-les-Bains"/>
+        <link href="https://jocharlet.github.io/demoimmo/maison-a-vendre-a-oron/"/>
+        <id>https://jocharlet.github.io/demoimmo/maison-a-vendre-a-oron/</id>
+            <category term="Oron"/>
             <category term="Maison"/>
 
-        <updated>2020-11-11T23:19:30+01:00</updated>
+        <updated>2021-04-24T16:27:58+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jocharlet.github.io/demoimmo/media/posts/6/18529323.jpg" alt="" />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl orci, volutpat&hellip;
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/16/big__house-for-sale-oron-5fbe3a6e42a9f.jpg" alt="" />
+                     Au calme, bien ensoleillé et en bordure de zone agricole, vous&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jocharlet.github.io/demoimmo/media/posts/6/18529323.jpg" alt="" />
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/16/big__house-for-sale-oron-5fbe3a6e42a9f.jpg" alt="" />
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18529323.jpg" data-size="897x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18529323-thumbnail.jpg" alt="" width="768" height="570"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18719645.jpg" data-size="1065x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18719645-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18793786.jpg" data-size="1000x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/6/gallery/18793786-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6db2633.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6db2633-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6e42a9f.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6e42a9f-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6e01942.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6e01942-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6e77776.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6e77776-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6ebf09f.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6ebf09f-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6f40d3e.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6f40d3e-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6f057ba.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6f057ba-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6f76190.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6f76190-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6fa8854.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6fa8854-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6fe091c.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a6fe091c-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a70d6249.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a70d6249-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a71c7aa2.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a71c7aa2-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a702a6e6.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a702a6e6-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a709c982.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a709c982-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a711ef4f.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a711ef4f-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a718bf24.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a718bf24-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a71575e6.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a71575e6-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a7062920.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a7062920-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a7208070.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3a7208070-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3cc544145.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/16/gallery/big__house-for-sale-oron-5fbe3cc544145-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
-<div id="lipsum">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl orci, volutpat quis interdum a, rhoncus nec enim. Proin tincidunt quis erat sed suscipit. Fusce aliquet justo eget augue viverra imperdiet. Cras ultricies elit sed ullamcorper sollicitudin. Aliquam porta purus lectus, in aliquet tellus finibus vitae. Morbi consectetur rhoncus arcu, id laoreet erat luctus id. Aliquam nec varius eros. Sed sit amet ex ligula. Vivamus id lobortis nibh. Sed sodales mi id ipsum porttitor, quis varius massa congue. Phasellus vestibulum, ante ac porttitor ornare, ligula justo ornare mauris, a gravida purus nulla suscipit arcu. Donec luctus posuere nisl, ac tempus sapien pulvinar in.</p>
-<p>Donec semper dictum orci, sit amet condimentum neque hendrerit id. Nullam tempor pulvinar nibh, vel accumsan elit pulvinar sit amet. Nullam porta enim erat, malesuada fringilla ex ultrices sed. Sed egestas, tortor quis ornare molestie, ipsum sem condimentum risus, cursus auctor purus eros et nibh. Duis elementum pellentesque ipsum, commodo convallis ante mollis sit amet. Duis vel libero consequat, facilisis nisi id, ultrices quam. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin elementum felis velit, nec sodales quam venenatis vel. Fusce est sapien, porttitor maximus varius sit amet, sollicitudin in ante. Maecenas scelerisque mi arcu, a ornare orci bibendum sed.</p>
-<p>Maecenas placerat maximus tellus non venenatis. Curabitur vel scelerisque justo. Nulla euismod pulvinar orci, nec blandit lectus cursus et. Vivamus ac porta orci. Duis eget est velit. Praesent dignissim purus at ultrices sodales. Integer fringilla velit quis condimentum auctor. Donec eleifend tortor lectus, non porttitor tortor euismod sit amet.</p>
-<p>Etiam quis efficitur quam, a imperdiet justo. Nulla facilisi. Morbi vulputate mattis placerat. Maecenas a erat scelerisque, scelerisque risus id, auctor tellus. Proin tempor sollicitudin urna. Ut luctus vehicula magna, et aliquet neque iaculis at. Vestibulum placerat scelerisque nisl vitae vehicula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam a fermentum felis. Sed eget mauris semper, rhoncus nibh vel, iaculis leo. Aenean libero metus, varius at maximus vitae, ultrices sodales dui. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed viverra egestas libero non varius.</p>
-<p>Integer id aliquet nisl. Vestibulum condimentum diam sit amet diam posuere tristique. Donec non quam vitae magna sagittis eleifend eget non leo. Phasellus turpis lacus, porttitor nec nisi nec, tempus hendrerit felis. Nulla varius et odio nec hendrerit. In vitae eros odio. Fusce lobortis lectus vel quam tincidunt ultrices. Quisque ac nunc accumsan, consectetur urna ut, efficitur neque.</p>
-</div>
-<p><a href="https://jocharlet.github.io/demoimmo/media/files/Stroganov végétarien.pdf">PDF</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>6.5 pièces - CHF 1&#x27;350&#x27;000.- </title>
-        <author>
-            <name>Jonathan Charlet</name>
-        </author>
-        <link href="https://jocharlet.github.io/demoimmo/45-pieces-chf-750000-2-2/"/>
-        <id>https://jocharlet.github.io/demoimmo/45-pieces-chf-750000-2-2/</id>
-            <category term="Vendu"/>
-
-        <updated>2020-11-03T09:38:39+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://jocharlet.github.io/demoimmo/media/posts/5/18719645.jpg" alt="" />
-                     À la fois très proche du centre-ville et à deux pas&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://jocharlet.github.io/demoimmo/media/posts/5/18719645.jpg" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/5/gallery/18529323.jpg" data-size="897x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/5/gallery/18529323-thumbnail.jpg" alt="" width="768" height="570"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/5/gallery/18719645.jpg" data-size="1065x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/5/gallery/18719645-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/5/gallery/18793786.jpg" data-size="1000x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/5/gallery/18793786-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-</div></div>
-<p><br><br>À la fois très proche du centre-ville et à deux pas de la nature, la résidence de Clendy 10 fait partie du plan de quartier "Clendy Parc".<br><br>Clendy Parc est situé dans secteur résidentiel calme et privilégié. La résidence sera à moins de 5 minutes du centre-ville ou des divers axes autoroutiers.<br><br>Le projet architectural intérieur et extérieur contemporain allie modernité, confort et praticité.<br><br>Cette future résidence se composera de 2 immeubles de 10 appartements chacun. Les typologies proposées vont du studio au 4 ½ pièces ( voir 5 ½ pièces en option).<br><br>Chaque lot dispose d'un balcon ou d'une terrasse et de belles surfaces habitables.<br><br>Le lot A11 est un appartement de 4,5 pièces d'une surface de 99 m2 habitable au 1er étage.<br>Il comprend une cuisine ouverte sur le séjour donnant sur un balcon de 9 m2, trois chambres à coucher, une salle de bain et une salle de douche.<br>Possibilité d'acquérir des places de parc couvertes à fr. 30'000.- ou extérieures à fr. 17'000.- selon la typologie des appartements.<br><br></p>
 <p> </p>
-<center>
-<div style="width: 100%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Yverdon-les-Bains%20La%20ferme+(My%20Business%20Name)&amp;t=k&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0"></iframe></div></div>
-</center>
+<p>Au calme, bien ensoleillé et en bordure de zone agricole, vous trouverez cette charmante/spacieuse ferme de trois appartements construits en 1882 sur une parcelle bien arborisée de 3'708 m2, puis rénovée ces dernières années 1993, avec un total de 375 m2 habitable.<br><br>Explication/dimension des trois appartements :<br><br>Appartement au premier étage de env. 160 m2 :<br>2 chambres enfants, 1 chambre parents/balcon, 1salle de bain/douche, wc visiteurs, 1 grand salon cheminée + terrasse, salle à manger/balcon et jolie cuisine.<br>Possibilité de deux autres chambres/salle de bain au même étage.<br><br>Appartement au rez de chaussée de env.120 m2 :<br>Un salon + terrasse, une chambre parents, une chambre enfant, un bureau, une salle de bain.<br><br>Appartement au rez de chaussée de env. 95 m2 :<br>Un salon avec poêle et terrasse, une chambre/véranda, une salle de bain, cuisine. Possibilité de la création en duplexe de deux autres chambres + salle de bain.<br><br>(Grande buanderie avec appareils lave-linge et séchoir et 3 caves au sous-sol)<br><br>A l’extérieur :<br><br>Locaux fermés - atelier bricolage et plusieurs garages.<br><br>La parcelle est entièrement clôturée, une fontaine, un très grand potager, une serre, étang avec biotope complémente cette propriété. Aussi, verger de cerisiers, pommiers, pruniers, cognassier et petits fruits.<br><br>Chauffage au mazout, possibilité de panneaux solaire/eau sanitaire.<br><br>Situé à env.20 minutes de Lausanne, Vevey et Bulle, 15 mn de Châtel st Denis et<br>à quelques minutes des principales commodités; gare CFF, arrêt des bus VD &amp; FR, établissements scolaires degrés primaire et secondaire 1, magasins et commerces.</p>
+<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Villa 11 pièces - CHF 3&#x27;950&#x27;000.-</title>
+        <title>Maison 7 pièces à vendre à Mézières (FR)</title>
         <author>
             <name>Jonathan Charlet</name>
         </author>
-        <link href="https://jocharlet.github.io/demoimmo/45-pieces-chf-750000-2/"/>
-        <id>https://jocharlet.github.io/demoimmo/45-pieces-chf-750000-2/</id>
+        <link href="https://jocharlet.github.io/demoimmo/maison-7-pieces-a-vendre-a-mezieres-fr/"/>
+        <id>https://jocharlet.github.io/demoimmo/maison-7-pieces-a-vendre-a-mezieres-fr/</id>
+            <category term="Mézières"/>
+            <category term="Maison"/>
+
+        <updated>2021-04-24T16:23:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/15/big__house-for-sale-7-rooms-mezieres-fr-5ef0976a3f4a8.jpg" alt="" />
+                    En zone villas, orientée Sud-Ouest, bénéficiant d’une vue dégagée sur la campagne,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/15/big__house-for-sale-7-rooms-mezieres-fr-5ef0976a3f4a8.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976a3f4a8.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976a3f4a8-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976a8ace0-2.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976a8ace0-2-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976ac2f0d.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976ac2f0d-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976b0f4d2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976b0f4d2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976b5153b.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976b5153b-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976b9559f.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976b9559f-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976bd10b5.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976bd10b5-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976c92fc9.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976c92fc9-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976c5856b.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976c5856b-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976c20314.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976c20314-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976cd6e70.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976cd6e70-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976d21ec5.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976d21ec5-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976d63f05.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976d63f05-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976da2edd.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976da2edd-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976de3afd.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976de3afd-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976e2b189.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976e2b189-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976e92e4d.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976e92e4d-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976e648e5.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976e648e5-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976ecad4c.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976ecad4c-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976f0bef6.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/15/gallery/big__house-for-sale-7-rooms-mezieres-fr-5ef0976f0bef6-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+</div></div>
+<p>En zone villas, orientée Sud-Ouest, bénéficiant d’une vue dégagée sur la campagne, les Préalpes et le Moléson, en position dominante dans un environnement calme et verdoyant<br><br>Construite en 1980 en zone villas, bénéficiant d’une vue dégagée sur la campagne, les Préalpes et le Moléson, en position dominante dans un environnement calme et verdoyant, cette villa individuelle de 7p / 300m2 habitables répartis sur 2 étages et construite sur une belle parcelle relativement plate de 1114 m2.<br><br>Vous serez séduits par la qualité des matériaux utilisés :<br>Grandes lignes de la façade élégamment soulignées par des pierres de taille en grès, tablettes de fenêtres ainsi que terrasses réalisées dans le même grès, toiture en tuiles flamandes vieillies, meubles de cuisine, escaliers, parquets, poutres apparentes et volets en chêne massif<br><br>La distribution des pièces répond aux attentes d’aujourd’hui tout en offrant le cachet authentique et agréable à vivre.<br><br>DESCRIPTIF<br><br>Au rez-de-chaussée :<br><br>Un spacieux hall d’entrée, un vaste séjour avec parquet en chêne, poutres apparentes et cheminée en molasse avec récupérateur de chaleur.<br>Il donne sur deux terrasses couvertes, une grande cuisine habitable, avec un bloc central richement équipé (plaques gaz et vitrocéramique, four à bois/charbon, friteuse incorporée, hottes). Elle mène par une pièce intermédiaire (frigos, vaisselier) à la salle à manger, une salle à manger indépendante du salon, pouvant être affectée à un autre usage si désiré, un WC visiteur avec lavabo.<br><br>A l’étage :<br><br>Depuis le hall, un bel escalier en chêne massif vous mènera à l’étage où vous trouverez une suite parentale aux surfaces généreuses : grand dressing, belle chambre, immense salle de bain avec baignoire, douche et WC, deux chambres équipées d’armoires fixes, une seconde salle de bain avec WC, une pièce bureau/bibliothèque/salle de musique, où une seconde cheminée, munie elle aussi d’un récupérateur de chaleur.<br><br>Au sous-sol :<br><br>Un grand garage avec portes automatiques, pouvant accueillir jusqu’à 3 voitures, une buanderie avec une douche et de nombreux rangements, une grande pièce, une cave à vin, un local technique (adoucisseur d’eau et pompe à chaleur) et un dépôt à bois.<br><br>A l’extérieur :<br><br>Plusieurs terrasses vous permettront de profiter de beaux points de vue sur la campagne et les montagnes environnantes. Le jardin, bien arborisé avec des essences variées, offre la possibilité de balades en proches campagne et forêt via un portillon.<br>A proximité immédiate au village de Mézières vous trouverez quelques commerces (boucherie, boulangerie, épicerie et fromagerie), la poste, l’école primaire et un arrêt de bus. Romont et ses nombreux commerces sont à 3 km. L’autoroute est à 8 km (sortie Vaulruz).<br><br>Prix de vente (CHF)1'652'000.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Aclens, située dans le district de Morges</title>
+        <author>
+            <name>Jonathan Charlet</name>
+        </author>
+        <link href="https://jocharlet.github.io/demoimmo/aclens-situee-dans-le-district-de-morges/"/>
+        <id>https://jocharlet.github.io/demoimmo/aclens-situee-dans-le-district-de-morges/</id>
+            <category term="Maison"/>
+            <category term="Aclens"/>
+
+        <updated>2021-04-24T16:19:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/14/big__house-for-sale-4-rooms-aclens-5fa5881eef044.jpg" alt="" />
+                    Au calme et avec une jolie vue sur la campagne, sur une&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/14/big__house-for-sale-4-rooms-aclens-5fa5881eef044.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5881eef044-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5881eef044-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5881f3b367-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5881f3b367-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5881f75bea-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5881f75bea-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5881fb0b29-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5881fb0b29-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5881fe831d-2.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5881fe831d-2-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58820c8acd-2.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58820c8acd-2-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58821a082b-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58821a082b-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58821d7561-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58821d7561-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58822c3dcd-2.jpg" data-size="600x800"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58822c3dcd-2-thumbnail.jpg" alt="" width="600" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58822e76b3-2.jpg" data-size="600x800"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58822e76b3-2-thumbnail.jpg" alt="" width="600" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa588202c018-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa588202c018-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa588213a615-2.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa588213a615-2-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa588216db69-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa588216db69-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa588226dabc-2.jpg" data-size="600x800"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa588226dabc-2-thumbnail.jpg" alt="" width="600" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5882060d42-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5882060d42-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5882093bfb-2.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa5882093bfb-2-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58821061c6-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58821061c6-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58822147f8-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa58822147f8-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa588229518f-2.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/14/gallery/big__house-for-sale-4-rooms-aclens-5fa588229518f-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div></div>
+<p>Au calme et avec une jolie vue sur la campagne, sur une parcelle de<br>675 m2 se trouve cette jolie maison traditionnelle de 4.5 pièces<br>construite en 2014 avec une surface habitable de env. 162 m2.<br>Elle est spacieuse, lumineuse et très agréable à vivre. Idéale pour une<br>famille car proche de toutes les commodités.<br>Avec ce bien, est compris une spacieuse grange de 887 m3.<br>l’intérieur est à rénover, il existe déjà un permis de construire pour la<br>création d'un atelier; en façade une large et grande porte fenêtre ainsi<br>qu'une autre fenêtre longue et rectangulaire pour remplacer la petite<br>fenêtre existante.<br>Au rez :<br>Une armoire et étagère intégrée dans le couloir ainsi qu'une belle<br>cuisine moderne donnant sur un grand salon et salle à manger avec<br>fourneau à bois et de grandes baies vitrées (beaucoup de lumière).<br>Buanderie.<br>Un wc visiteur.<br>Etage :<br>Un escalier avec lumière intégrée qui amène à trois magnifiques<br>chambres à coucher et une grande salle de bain/douche (baignoire un<br>peu plus grande que la norme donc plus confortable), wc.<br>Sous-sol :<br>Une grande pièce (local de jeux, bureau) une cave et local technique.<br>Le chauffage (géothermique) très économique, est au sol sur tous les<br>niveaux.<br>Extérieur :<br>Façades extérieures en chaux, de plus, l'isolation dans la maison est<br>"isofloc" qui permet à la chaleur ambiante d'être maintenu.<br>Joli jardin plat, 2 places pour voiture.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Venez vivre à Ropraz/Carrouge VD ! (15 mn en bus de Lausanne) </title>
+        <author>
+            <name>Jonathan Charlet</name>
+        </author>
+        <link href="https://jocharlet.github.io/demoimmo/venez-vivre-a-roprazcarrouge-vd-15-mn-en-bus-de-lausanne/"/>
+        <id>https://jocharlet.github.io/demoimmo/venez-vivre-a-roprazcarrouge-vd-15-mn-en-bus-de-lausanne/</id>
+            <category term="Jorat-Mézières"/>
+            <category term="Appartement"/>
+
+        <updated>2021-04-24T16:11:13+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/13/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9ce13da.jpg" alt="" />
+                     Situé dans un havre de paix ce splendide, lumineux et spacieux&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/13/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9ce13da.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9a9e578.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9a9e578-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9a68f82.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9a68f82-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9a310ae.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9a310ae-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9ada19e.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9ada19e-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9b1be7d.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9b1be7d-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9b52e16.jpg" data-size="600x800"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9b52e16-thumbnail.jpg" alt="" width="600" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9b839d8.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9b839d8-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9bbf6a5.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9bbf6a5-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9c3aae4.jpg" data-size="534x800"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9c3aae4-thumbnail.jpg" alt="" width="534" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9c9acee.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9c9acee-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9c091ec.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9c091ec-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9c65766.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9c65766-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9ce13da.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9ce13da-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d99e785c.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d99e785c-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9973990.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5e9d8d9973990-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5ec01d3f8a3d6.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5ec01d3f8a3d6-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5ed8b36d6ceca.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/13/gallery/big__apartment-for-sale-4-rooms-jorat-mezieres-5ed8b36d6ceca-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+</div></div>
+<p> </p>
+<h2>Venez vivre à Ropraz/Carrouge VD ! (15 mn en bus de Lausanne)</h2>
+<div class="property-show-description">
+<p>Situé dans un havre de paix ce splendide, lumineux et spacieux appartement/maison de 117 m2 habitable / 172 m2 utilisable au rez de 4.5 pièces, construit entièrement à neuf dans un ancien et charmant moulin.<br>Ce bien se trouve dans une petite PPE de 2 appartements avec en plus un beau jardin plat de 318 m2 plein sud pour cet appartement.<br><br>Très agréable à vivre et idéale pour une famille, car à 50 m env. de l’arrêt du bus pour Lausanne.<br><br>Visitez-le, il ne vous laissera pas indifférent !<br><br><br>Description :<br><br>- Entrée<br>- Salon et salle à manger<br>- Poêle suédois <br>- Cuisine ouverte bien équipée + réduit<br>- Chambre parent et deux chambres enfants<br>- Salle de bain/douche wc lavabo<br>- Wc visiteurs<br>- Buanderie<br>- Une grande terrasse couverte de 31.70 m2 à l’est<br>- Une autre terrasse couverte de 12.35 m2 à l’ouest<br>- Les finitions sont soignées et de qualité.<br><br>- Chauffage au sol, gaz.<br>- Jardin de 318 m2<br>- 2/3 places de parking extérieure.<br><br>-1 cave<br><br>Prix : CHF. 930'000.-</p>
+</div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Venez vivre à Daillens !!</title>
+        <author>
+            <name>Jonathan Charlet</name>
+        </author>
+        <link href="https://jocharlet.github.io/demoimmo/venez-vivre-a-daillens/"/>
+        <id>https://jocharlet.github.io/demoimmo/venez-vivre-a-daillens/</id>
+            <category term="Daillens"/>
+            <category term="Appartement"/>
+
+        <updated>2021-04-24T15:50:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/12/big__apartment-for-sale-2-rooms-daillens-6057a50169cc2.jpg" alt="" />
+                    Voici un magnifique appartement de 110m2 habitables répartis en 2.5 pièces plus&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/12/big__apartment-for-sale-2-rooms-daillens-6057a50169cc2.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a500a607e.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a500a607e-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a500d68b9.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a500d68b9-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a501c5dc3.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a501c5dc3-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a501f0e74.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a501f0e74-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a502ba90e.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a502ba90e-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a502f22ac.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a502f22ac-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a5010e090.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a5010e090-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a5013c0c9.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a5013c0c9-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50169cc2.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50169cc2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50227c75.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50227c75-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50288f7c.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50288f7c-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50353db8.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50353db8-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a500740d0.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a500740d0-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a503270d2.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a503270d2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50194396.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50194396-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50256245.jpg" data-size="960x640"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/12/gallery/big__apartment-for-sale-2-rooms-daillens-6057a50256245-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Voici un magnifique appartement de 110m2 habitables répartis en 2.5 pièces plus mezzanine (16m2). Rénové en 2018, il est en excellente condition et prêt à vous accueillir de suite. Son orientation vous permet d’avoir de la lumière dès le matin et jusqu’au soir, le rendant très lumineux. Son grand balcon de 14m2 plein sud, vous permettra de bien profiter de la vue et du soleil toute la journée. Ce lot jouira d’un accès par ascenseur.</span></p>
+<div class="property-show-description">
+<p><br>Sa PPE de 6 lots se trouve dans la charmante commune de Daillens, proche de l’autoroute (sortie Cossonay), dans une ancienne ferme rénovée. <br><br>Deux places de parc dont une couverte (CHF 15'000 + CHF 20'000) complètent ce spacieux bien.<br><br>Contact et visites :<br><br>Juan Ortega<br>079 312 98 25<br>ortega.immo@gmail.com<br><br>Répartition :<br><br>1 Entrée.<br>1 Salon avec poêle suédois, coin à manger et accès au balcon et mezzanine (16m2).<br>1 Cuisine ouverte.<br>1 Chambre de 23m2 avec salle de bains privative (baignoire, lavabo, WC et velux).<br>1 WC visiteurs (WC et lavabo).<br>1 Coin buanderie.<br><br>Extérieur :<br><br>1 Balcon (14m2).<br>1 Place de parc ext. (CHF 15'000 en sus)<br>1 Place de parc ext. couverte (CHF 20'000 en sus).<br>1 Cave.<br>Chauffage pompe à chaleur (PAC) radiateurs.<br><br>Prix CHF. 795'000.-</p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Et pourquoi ne pas faire l’acquisition d’un charmant appartement à Verbier !</title>
+        <author>
+            <name>Jonathan Charlet</name>
+        </author>
+        <link href="https://jocharlet.github.io/demoimmo/et-pourquoi-ne-pas-faire-lacquisition-dun-charmant-appartement-a-verbier/"/>
+        <id>https://jocharlet.github.io/demoimmo/et-pourquoi-ne-pas-faire-lacquisition-dun-charmant-appartement-a-verbier/</id>
+            <category term="Bagnes"/>
+            <category term="Appartement"/>
+
+        <updated>2021-04-24T15:46:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/11/big__apartment-for-sale-3-rooms-bagnes-5e019b1dbbb5f.jpg" alt="" />
+                    Bien situé et au calme, à 20 m des remontées mécaniques de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/11/big__apartment-for-sale-3-rooms-bagnes-5e019b1dbbb5f.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1d7b5a3.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1d7b5a3-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1dbbb5f.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1dbbb5f-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1e0e150.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1e0e150-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1e4e25c.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1e4e25c-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1e85bed.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1e85bed-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1eb79ef.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1eb79ef-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1ee7447.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1ee7447-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1f257bb.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1f257bb-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1f931e4.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1f931e4-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1f5842f.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1f5842f-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1fcac97.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b1fcac97-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b200e196.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/11/gallery/big__apartment-for-sale-3-rooms-bagnes-5e019b200e196-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div></div>
+<p>Bien situé et au calme, à 20 m des remontées mécaniques de Savoleyres et à proximité de l’arrêt de bus, avec une vue sur le village et les montagnes de Verbier.<br><br>Ce bel appartement de 3.5 pièces (85 m2 avec le balcon) se situe exactement au 3ème étage de cette PPE « style chalet ».<br><br>Ce bien est idéal pour vivre à l’année, mais également comme résidence secondaire (autorisation déjà reçue) car proche des pistes de ski et non loin des commerces villageois.<br><br>Données techniques :<br><br>- Année de construction : 1976 et en très bon état d’entretiens.<br>- Hall d’entrée avec armoires permettant un gain de place et d’espace<br>de rangement<br>- Cuisine ouverte<br>- Salle à manger/salon/cheminée<br>- Balcon<br>- Deux chambres à coucher<br>- Deux salles de bain/douche et toilettes<br>- Balcon de 10 m2 env.<br>- Ascenseur<br>- Un sauna est mis à la disposition des locataires au deuxième étage du bâtiment.<br>- Cave<br>- Buanderie en commun<br>- Chauffage à Mazout<br>- 1 garage intérieur<br>- Charges mensuelle/2017 CHF 350.-<br>- Vente autorisée pour des personnes ne possédant pas la nationalité<br>suisse ou ne résidant pas sur le territoire<br>- Prix CHF 790'000.-<br>Immeuble le Boucanier, chemin des Luis N° 20, 1936 Verbier Disponibilité, immédiate !</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Venez vivre à la campagne ! (Le Crêt-près-Semsales)</title>
+        <author>
+            <name>Jonathan Charlet</name>
+        </author>
+        <link href="https://jocharlet.github.io/demoimmo/venez-vivre-a-la-campagne-le-cret-pres-semsales/"/>
+        <id>https://jocharlet.github.io/demoimmo/venez-vivre-a-la-campagne-le-cret-pres-semsales/</id>
+            <category term="Le Crêt-près-Semsales"/>
+            <category term="Appartement"/>
+
+        <updated>2021-04-24T15:42:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/10/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa1435b0.jpg" alt="" />
+                    Ce lumineux et spacieux appartement de 5 pièces (env. 180 m2) est&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/10/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa1435b0.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa1b3330.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa1b3330-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa1e301e.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa1e301e-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa2a812f.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa2a812f-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa2d7f94.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa2d7f94-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa3c7cfc.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa3c7cfc-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa3f0175.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa3f0175-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa21df0c.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa21df0c-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa33d1d3.jpg" data-size="534x800"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa33d1d3-thumbnail.jpg" alt="" width="534" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa38f393.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa38f393-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa280b37.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa280b37-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa436b89.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa436b89-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa1435b0.jpg" data-size="960x719"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa1435b0-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa1813d4.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa1813d4-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa109515.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa109515-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa250952.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa250952-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa313812.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa313812-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa365293.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/10/gallery/big__apartment-for-sale-5-rooms-la-verrerie-5f99aaa365293-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+</div></div>
+<p>Ce lumineux et spacieux appartement de 5 pièces (env. 180 m2) est très agréable à vivre.<br><br>Situé dans un havre de paix, ce bien est dans les combles d’une petite PPE de 3 lots avec une vue imprenable sur la campagne et ses montagnes. (Le Moléson)<br><br>Ce logement construit dans une ancienne ferme est orienté sud-ouest, il fut rénové entièrement en 2006, venez le visiter ! il ne vous laissera pas indifférent !<br><br><br>Description :<br><br>- Premier comble :<br>- Hall d’entrée/dressing<br>- WC visiteurs<br>- Local/buanderie séparé<br>- Vaste salon et salle à manger plein sud (grand balcon couvert)<br>- Belle cuisine bien complète avec belle ouverture à l’ouest<br>- Grandes baies vitrées avec stores entièrement électriques<br>- Deux chambres à coucher<br>- Très grand nombre d’armoires murales<br>- Salle de bain/douche et WC, double lavabo<br><br>- Accès à l’étage comble :<br>- Mezzanine ouverte sur séjour et chambre à coucher<br>- Les finitions sont soignées et de qualité.<br>- Grande place sécurisée devant la maison (pas de passage)<br>- Relié épuration des eaux de la commune<br>- Fibre optique Net+<br>- Chauffage pompe à chaleur géothermie<br>- Aspirateur central<br><br>- Sous-sol :<br>- Une cave<br><br>- Extérieur :<br>- Un garage box et + 1 place de parc CHF. 15'000.- en sus<br><br>Mise à disposition d’une surface jardin d’agrément derrière les garages (40-80m2)<br>Locaux de stockage à disposition dans l’immeuble voisin (ancien moulin)<br>Prix de vente CHF. 715'000.- Coût PPE - Fr. 550.- / mois.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Venez vivre à Mathod !!</title>
+        <author>
+            <name>Jonathan Charlet</name>
+        </author>
+        <link href="https://jocharlet.github.io/demoimmo/venez-vivre-a-mathod/"/>
+        <id>https://jocharlet.github.io/demoimmo/venez-vivre-a-mathod/</id>
+            <category term="Mathod"/>
+            <category term="Maison"/>
+
+        <updated>2021-04-24T15:33:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/9/big__house-for-sale-mathod-6062503d58e2f.jpg" alt="" />
+                    Bien située au centre de Mathod, maison à rénover des années 50&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/9/big__house-for-sale-mathod-6062503d58e2f.jpg" alt="" />
+                <p>Bien située au centre de Mathod, maison à rénover des années 50 est en zone village.<br>D’une surface disponible d’environ 170 m2 et d’un jardin de 351 m2.<br><br>Idéale pour une famille : profitez du calme d'un petit village en pleine campagne tout en étant proche des commodités.<br><br>À 5 min. de l'Autoroute.<br>1<br>SITUATION<br>En campagne, à quelques minutes des écoles de la région, des centres commerciaux et du bord du lac.<br><br>Prix de vente: CHF. 550'000.-<br><br>ACCÈS<br>À 5 min. à pied de l'arrêt du bus no 680<br>À 5 min. de l'Autoroute<br>À 5 min. d'Orbe<br>À 10 min. d'Yverdon<br>À 30 min. de Lausanne et Neuchâtel</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Venez vivre à Choex / Monthey VS, une opportunité à saisir ! </title>
+        <author>
+            <name>Jonathan Charlet</name>
+        </author>
+        <link href="https://jocharlet.github.io/demoimmo/venez-vivre-a-choex-monthey-vs-une-opportunite-a-saisir/"/>
+        <id>https://jocharlet.github.io/demoimmo/venez-vivre-a-choex-monthey-vs-une-opportunite-a-saisir/</id>
+            <category term="Monthey"/>
+            <category term="Appartement"/>
+
+        <updated>2021-04-24T15:24:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/8/big__apartment-for-sale-4-rooms-monthey-5f19ed7547816.jpg" alt="" />
+                    Venez vivre à Choex / Monthey VS, une opportunité à saisir !&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/8/big__apartment-for-sale-4-rooms-monthey-5f19ed7547816.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19ed7547816.jpg" data-size="960x539"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19ed7547816-thumbnail.jpg" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0faae475.jpg" data-size="960x540"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0faae475-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fae9232.jpg" data-size="960x539"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fae9232-thumbnail.jpg" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fb5b9aa.jpg" data-size="960x540"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fb5b9aa-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fb8d4f5.jpg" data-size="960x540"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fb8d4f5-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fb29787.jpg" data-size="960x539"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fb29787-thumbnail.jpg" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fbbb58b.jpg" data-size="960x540"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fbbb58b-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fbe63f2.jpg" data-size="960x540"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fbe63f2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fc1ed6f.jpg" data-size="960x540"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fc1ed6f-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fc774f2.jpg" data-size="960x540"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fc774f2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fc47259.jpg" data-size="960x540"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fc47259-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fca413d.jpg" data-size="960x540"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/8/gallery/big__apartment-for-sale-4-rooms-monthey-5f19f0fca413d-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+</div></div>
+<p>Venez vivre à Choex / Monthey VS, une opportunité à saisir !<br><br>Au calme et entouré de verdure, vous trouverez dans cette petite PPE de 4 lots ces splendides, lumineux et spacieux appartements villas avec une vue bien dégagé.<br><br>Nous vous proposons cette nouvelle promotion de 4 appartements/villas de 4.5 pièces, dont deux au rez et deux autres à l’étage.<br><br>L’environnement est parfait pour une famille en recherche de paix et de tranquillité à 5 minutes en voiture de Monthey et de toutes les commodités.<br><br>lot 1 : Appartement au rez 4.5 pièces 94,94 m2 + 158 m2 de jardin et terrasse 22,76,<br><br>Ce bien est composé comme suit :<br>Un hall d’entrée avec une armoire murale<br>Deux chambres de 11.32 et 11.18 m2<br>Une chambre de 14.09 m2<br>Deux salles de bain/douche<br>Une cuisine ouverte sur un bel espace de vie de 34.55 m2<br>Une grande terrasse de 22.76 m2 donnant sur le jardin<br>Une cave 4.79 m2<br>Viennent également compléter cet appartement, deux places de parc et une cave, compris dans le prix.<br><br>Prix : CHF. 570'000.-<br><br>Lot 2 : au rez, réservé<br>***************************************************************************<br><br>Lot 3 : Appartement à l’étage 4.5 pièces 94.94 m2 :<br><br>Grand balcon de 24.15 m2<br>Ce bien est composé comme suit :<br>Un hall d’entrée avec une armoire murale<br>Deux chambres de 11.18m2 /11.32 m2<br>Chambre parent 14 m2<br>Deux salles de bain/douche<br>Une cuisine ouverte sur un bel espace de vie de 34.55 m2<br>Une cave de 4.79 m2<br>Viennent également compléter cet appartement, deux places de parc compris dans le prix.<br><br>Prix : CHF. 540'000.-<br>***************************************************************************<br>Lot 4 : Appartement à l’étage 4.5 pièces 93.57 m2 :<br><br>Grand balcon de 26.75 m2<br>Ce bien est composé comme suit :<br>Un hall d’entrée avec une armoire murale<br>Deux chambres de 11.18m2 /11.32 m2<br>Chambre parent 14 m2<br>Deux salles de bain/douche<br>Une cuisine ouverte sur un bel espace de vie de 33.19 m2<br>Une cave de 4.79 m2<br>Viennent également compléter cet appartement, deux places de parc compris dans le prix.<br><br>Prix : CHF. 540'000.-</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Venez vivre à Chailly Lausanne !!</title>
+        <author>
+            <name>Jonathan Charlet</name>
+        </author>
+        <link href="https://jocharlet.github.io/demoimmo/sur-demande-lausanne/"/>
+        <id>https://jocharlet.github.io/demoimmo/sur-demande-lausanne/</id>
             <category term="Maison"/>
             <category term="Lausanne"/>
 
-        <updated>2020-11-11T22:15:21+01:00</updated>
+        <updated>2021-04-24T15:17:25+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jocharlet.github.io/demoimmo/media/posts/4/18529323.jpg" alt="" />
-                    Magnifique demeure de 11 piècesCette luxueuse résidence construite en 2004 est implantée&hellip;
+                        <img src="https://jocharlet.github.io/demoimmo/media/posts/7/big__house-for-sale-8-rooms-lausanne-5eb03e5d7b0ed.jpg" alt="" />
+                    Splendide et moderne villa de 8.5 pièces construite en 2003, sise sur&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jocharlet.github.io/demoimmo/media/posts/4/18529323.jpg" alt="" />
-                <h2>Magnifique demeure de 11 pièces</h2>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/4/gallery/18529323.jpg" data-size="897x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/4/gallery/18529323-thumbnail.jpg" alt="" width="768" height="570"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/4/gallery/18719645.jpg" data-size="1065x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/4/gallery/18719645-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/4/gallery/18793786.jpg" data-size="1000x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/4/gallery/18793786-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-</div></div>
-<p>Cette luxueuse résidence construite en 2004 est implantée sur un terrain de 2 800m2. Elle est située dans un quartier calme et résidentiel à proximité du Golf de Lausanne et de l'Ecole Hôtelière.</p>
-<p>D'une surface habitable d'environ 475m2, elle offre, notamment grâce à ses volumes généreux et très lumineux, tout le confort et des équipements modernes (Domotique). Elle est décorée avec beaucoup de goût et des matériaux de qualité. Un ascenseur dessert chaque niveau.</p>
-<p>La propriété est entourée d'un magnifique jardin clos entretenu avec beaucoup de soin, richement fleuri et arboré. Plusieurs zones de bronzage, un jacuzzi, ainsi qu'une cuisine d'été abritée ornent à l'extérieur.</p>
-<p>Une salle de cinéma, une belle cave à vin, une buanderie, diverses caves et pièces disponibles complètent ce bien.</p>
-<p>Le garage peut accueillir 4 voitures, tandis que 5 véhicules peuvent être garés à l'extérieur.</p>
-<p>L'ensemble de la maison et les extérieurs sont parfaitement entretenus et des travaux d'entretien ont été réalisés en 2013, 2016 et 2019.</p>
-<p><a href="https://jocharlet.github.io/demoimmo/media/files/Stroganov végétarien.pdf" target="_blank" rel="noopener noreferrer" download>PDF</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>4.5 pièces - CHF 750&#x27;000.-</title>
-        <author>
-            <name>Jonathan Charlet</name>
-        </author>
-        <link href="https://jocharlet.github.io/demoimmo/45-pieces-chf-750000-/"/>
-        <id>https://jocharlet.github.io/demoimmo/45-pieces-chf-750000-/</id>
-            <category term="Yverdon-les-Bains"/>
-            <category term="Appartement"/>
-
-        <updated>2020-11-11T22:24:14+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://jocharlet.github.io/demoimmo/media/posts/3/18719645.jpg" alt="" />
-                     À la fois très proche du centre-ville et à deux pas&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://jocharlet.github.io/demoimmo/media/posts/3/18719645.jpg" alt="" />
+                    <img src="https://jocharlet.github.io/demoimmo/media/posts/7/big__house-for-sale-8-rooms-lausanne-5eb03e5d7b0ed.jpg" alt="" />
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/3/gallery/18529323.jpg" data-size="897x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/3/gallery/18529323-thumbnail.jpg" alt="" width="768" height="570"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/3/gallery/18719645.jpg" data-size="1065x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/3/gallery/18719645-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/3/gallery/18793786.jpg" data-size="1000x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/3/gallery/18793786-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5d7b0ed.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5d7b0ed-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5dc273d.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5dc273d-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5e7d73e.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5e7d73e-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5e08304.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5e08304-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5e40925.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5e40925-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5ec8418.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5ec8418-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5f129ea.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5f129ea-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5f54789.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5f54789-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5f90668.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5f90668-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5fd411b.jpg" data-size="960x641"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e5fd411b-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e60a5856.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e60a5856-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e60e4b69.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e60e4b69-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e60200b8.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e60200b8-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e606661b.jpg" data-size="960x720"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/7/gallery/big__house-for-sale-8-rooms-lausanne-5eb03e606661b-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
-<p><br><br>À la fois très proche du centre-ville et à deux pas de la nature, la résidence de Clendy 10 fait partie du plan de quartier "Clendy Parc".<br><br>Clendy Parc est situé dans secteur résidentiel calme et privilégié. La résidence sera à moins de 5 minutes du centre-ville ou des divers axes autoroutiers.<br><br>Le projet architectural intérieur et extérieur contemporain allie modernité, confort et praticité.<br><br>Cette future résidence se composera de 2 immeubles de 10 appartements chacun. Les typologies proposées vont du studio au 4 ½ pièces ( voir 5 ½ pièces en option).<br><br>Chaque lot dispose d'un balcon ou d'une terrasse et de belles surfaces habitables.<br><br>Le lot A11 est un appartement de 4,5 pièces d'une surface de 99 m2 habitable au 1er étage.<br>Il comprend une cuisine ouverte sur le séjour donnant sur un balcon de 9 m2, trois chambres à coucher, une salle de bain et une salle de douche.<br>Possibilité d'acquérir des places de parc couvertes à fr. 30'000.- ou extérieures à fr. 17'000.- selon la typologie des appartements.<br><br></p>
-<p><a href="https://jocharlet.github.io/demoimmo/media/files/Stroganov végétarien.pdf">PDF</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>3.5 pièces - CHF 745&#x27;000.-</title>
-        <author>
-            <name>Jonathan Charlet</name>
-        </author>
-        <link href="https://jocharlet.github.io/demoimmo/appartement-35-pieces/"/>
-        <id>https://jocharlet.github.io/demoimmo/appartement-35-pieces/</id>
-            <category term="Yverdon-les-Bains"/>
-            <category term="Appartement"/>
-
-        <updated>2020-11-11T22:14:25+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://jocharlet.github.io/demoimmo/media/posts/2/18793786.jpg" alt="" />
-                    3.5 pièces au rez avec jardin de 278 m2Splendide appartement de 3.5&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://jocharlet.github.io/demoimmo/media/posts/2/18793786.jpg" alt="" />
-                <h2>3.5 pièces au rez avec jardin de 278 m2</h2>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/2/gallery/18529323.jpg" data-size="897x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/2/gallery/18529323-thumbnail.jpg" alt="" width="768" height="570"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/2/gallery/18719645.jpg" data-size="1065x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/2/gallery/18719645-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/2/gallery/18793786.jpg" data-size="1000x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/2/gallery/18793786-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-</div></div>
-<p>Splendide appartement de 3.5 pièces au rez-de-chaussée situé sur les hauteurs d'Yverdon. Idéalement orienté face au Jura, il bénéficie d'un emplacement privilégié, sans aucune nuisance.<br><br>Ce bien entièrement rénové en 2020, offre une surface habitable très agréable d'environ 87 m2.<br><br>A l'extérieur, vous profiterez de deux terrasses magnifiquement aménagées ainsi que d'un vaste jardin d'environ 280 m2, entourant l'entier de l'appartement.<br><br>Une place couverte (Fr. 20'000.- en sus du prix de vente), une cave et un galetas complètent ce bien.</p>
-<p> </p>
-<center>
-<div style="width: 100%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Yverdon-les-Bains%20La%20ferme+(My%20Business%20Name)&amp;t=k&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0"></iframe></div></div>
-</center>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>Jonathan Charlet</name>
-        </author>
-        <link href="https://jocharlet.github.io/demoimmo/intro/"/>
-        <id>https://jocharlet.github.io/demoimmo/intro/</id>
-            <category term="Yverdon-les-Bains"/>
-
-        <updated>2020-09-26T15:40:30+02:00</updated>
-            <summary>
-                <![CDATA[
-                     Gérard Peregrine A votre service depuis 30 ans
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://jocharlet.github.io/demoimmo/media/posts/1/image.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://jocharlet.github.io/demoimmo/media/posts/1/responsive/image-xs.jpg 300w ,https://jocharlet.github.io/demoimmo/media/posts/1/responsive/image-sm.jpg 480w ,https://jocharlet.github.io/demoimmo/media/posts/1/responsive/image-md.jpg 768w ,https://jocharlet.github.io/demoimmo/media/posts/1/responsive/image-lg.jpg 1024w"  alt="" width="217" height="217"></figure> Gérard Peregrine</p>
-<p>A votre service depuis 30 ans</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/1/gallery/18529323-2.jpg" data-size="897x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/1/gallery/18529323-2-thumbnail.jpg" alt="" width="768" height="570"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/1/gallery/18719645-2.jpg" data-size="1065x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/1/gallery/18719645-2-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://jocharlet.github.io/demoimmo/media/posts/1/gallery/18793786-2.jpg" data-size="1000x666"><img loading="lazy" src="https://jocharlet.github.io/demoimmo/media/posts/1/gallery/18793786-2-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-</div></div>
+<p>Splendide et moderne villa de 8.5 pièces construite en 2003, sise sur les hauts de Lausanne, dans un quartier calme et ensoleillé à deux pas des écoles ainsi que toutes commodités.<br><br>Une jolie parcelle plate de 1’103 m2.<br><br>Surface habitable d’environ 330 m2, 450 m2 utiles.<br><br>1540 m3 de construction, matériaux et finition de qualité<br><br>Couvert de 33 m2 pour 2 à 4 voitures<br><br>***<br>Rez-de-chaussée :<br>Hall d’entrée, penderie, WC douche visiteurs, bureau, cuisine et salle à manger, vaste salon cheminée de 43 m2 avec un sol en pierre de Jérusalem, plusieurs grandes terrasses à l’est et au sud.<br><br>Etage :<br>Chambre parent salle de bain et douche, 1 chambre enfant avec salle de bain, une chambre enfant avec mezzanine et salle de bain, bibliothèque avec accès mezzanine, balcon de 33 m2.<br><br>Sous-sol :<br>Cave, buanderie, abri PC, chaufferie et grande pièce aménagée/salle de douche wc, avec sortie vers l’extérieure.<br><br>Extérieurs<br>Piscine chauffée, espace wellness comprenant un jacuzzi, sauna et douche wc, local outils jardin, divers arbres et la parcelle entièrement clôturée.<br><br>Prix sur demande<br><br>Disponibilité, à convenir.<br>Juan Ortega<br>079/ 312 98 25</p>
             ]]>
         </content>
     </entry>
